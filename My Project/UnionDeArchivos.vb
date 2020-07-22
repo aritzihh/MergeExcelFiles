@@ -24,7 +24,6 @@ Public Class UnionDeArchivos
 
         Dim centroPenitenciarioActual As CentroPenitenciario
         Dim primeraAparicion
-        Dim siguienteAparicion
         Dim rangeAvailableSheet As Excel.Range
         Dim rangeCurrentCuestion As Excel.Range
 
